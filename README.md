@@ -7,3 +7,4 @@
 <li> Sheets: Google Sheets/Excel </li>
 <li> Project Management & Bakcups : Github </li>
 <li> Deployment : Netlify/Heroku/Github Pages </li>
+<li> Coding : VsCode </li>
