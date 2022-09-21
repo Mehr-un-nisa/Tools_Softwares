@@ -1,4 +1,4 @@
-# Tools_Softwares
+# Tools_Softwares_Sites
 <h3> Here are most efficient tools, sites and softwares </h3>
 <li> Api testing : Postman </li>
 <li> Bug Logging : Jira </li>
