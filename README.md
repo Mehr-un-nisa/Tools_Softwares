@@ -8,3 +8,6 @@
 <li> Project Management & Bakcups : Github </li>
 <li> Deployment : Netlify/Heroku/Github Pages </li>
 <li> Coding : VsCode </li>
+<li> Designing: Figma </li>
+<li> Photo Editing : Adobe Photoshop </li>
+<li> Video Editing : Adobe Premiere Pro </li>
