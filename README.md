@@ -2,6 +2,7 @@
 <h3> Here are most efficient tools, sites and softwares </h3>
 <li> Api testing : Postman </li>
 <li> Bug Logging : Jira </li>
+<li> Bugs detecting in java : FindBugs </li> 
 <li> Automation testing/ Scripts : Eclipse/Selenium </li>
 <li> Requirement & Scope document : Google Docs/Word </li>
 <li> Sheets: Google Sheets/Excel </li>
